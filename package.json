@@ -1,5 +1,5 @@
 {
-  "homepage": "https://LuFeSil.github.io/aguacates",
+  "homepage": "https://github.com/LuFeSil/aguacates.git",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
