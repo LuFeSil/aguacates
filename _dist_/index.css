@@ -1,0 +1,25 @@
+@import "../_snowpack/pkg/tailwindcss/dist/base.css";
+@import "../_snowpack/pkg/tailwindcss/dist/components.css";
+@import "../_snowpack/pkg/tailwindcss/dist/utilities.css";
+
+.avocados-list-container {
+  margin-block: 2rem;
+}
+
+.avocado-container {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.avocado-container:hover {
+  transform: scale(1.1);
+  border: 0.25rem solid #ecc94b;
+}
+
+.avocado-img {
+  border-radius: 5%;
+}
+
+.avocado-price {
+  width: fit-content;
+}
