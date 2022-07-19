@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://LuFeSil.github.io/aguacates.git',
+    baseUrl: 'https://LuFeSil.github.io/aguacates',
   },
 }
